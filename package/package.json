@@ -1,0 +1,19 @@
+{
+  "name": "package-2-pj",
+  "version": "1.0.0",
+  "description": "Package npm 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phillipe-Jarnefors/npm-2.git"
+  },
+  "author": "Phillipe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Phillipe-Jarnefors/npm-2/issues"
+  },
+  "homepage": "https://github.com/Phillipe-Jarnefors/npm-2#readme"
+}
